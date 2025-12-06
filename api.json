@@ -1,0 +1,12 @@
+{
+    "region": "sg",
+    "cluster": "SG", 
+    "vRegion": "sg",
+    "vGeo": "row",
+    "userCountryCodeByIp": "ID",
+    "language": "id-ID",
+    "isSG": true,
+    "appid": 1180,
+    "webId": "7578403181643712008",
+    "userId": "7463478905471730695"
+}
